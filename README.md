@@ -3,7 +3,7 @@
 **Todo and Journal** is a lightweight, user-friendly web application designed to help you manage your daily tasks and journal your thoughts seamlessly. Built using **HTML**, **CSS**, and **JavaScript**, this app offers a clean, minimalist interface that works right in your browser—no installations or dependencies required!
 
 ---
-![Todo List Screenshot](todo/Screenshot%202025-01-23%20220925.png)
+![Screenshot of Todo and Journal](todo/Screenshot%202025-01-23%20220907.png)
 ## 🌟 Features
 
 ### ✅ **Todo List**  
@@ -36,8 +36,10 @@
 - A clean and responsive design suitable for any device.
 
 ---
+![Todo List Screenshot](todo/Screenshot%202025-01-23%20220925.png)
 ![Journaling Page Screenshot](todo/Screenshot%202025-01-23%20220951.png)
 ![Contact Page Screenshot](todo/Screenshot%202025-01-23%20221046.png)
+
 ## 🚀 How to Use
 
 1. **Download or Clone the Repository**:  
